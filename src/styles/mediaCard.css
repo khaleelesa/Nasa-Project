@@ -1,0 +1,29 @@
+.smallImg {
+  width: 200px;
+  height: 200px;
+}
+.bigImg {
+  width: 100%;
+  height: 500px;
+}
+
+.MediaCard {
+  border-style: solid;
+  border-radius: 2px;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  width: inherit;
+  height: max-content;
+}
+
+.title {
+  color: whitesmoke;
+  font-size: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.info {
+  color: whitesmoke;
+  font-size: 16px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
